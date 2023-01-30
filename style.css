@@ -64,7 +64,7 @@ i {
 }
 
 progress {
-  height: 7px;
+  height: 8px;
   width: 0%;
 }
 
@@ -94,10 +94,8 @@ progress {
   cursor: pointer;
 }
 
-.botao-play,
-.botao-pause {
-  font-size: 50px;
-  border-radius: 50%;
+.botao-play, .botao-pause {
+  font-size: 50px;  
   text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.548);
 }
 
